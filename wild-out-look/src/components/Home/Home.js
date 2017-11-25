@@ -18,7 +18,7 @@ class Home extends Component {
                         </div>
                         <div className="info">
                             <div className="title">
-                                <a target="_blank" href="http://scripteden.com/">Script Eden</a>
+                                <a href="/">Script Eden</a>
                             </div>
                             <div className="desc">Passionate designer</div>
                             <div className="desc">Curious developer</div>
